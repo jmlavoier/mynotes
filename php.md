@@ -21,5 +21,24 @@ Veja as versões que possui no diretório *bin/php/*
  LoadModule php5_module /Applications/MAMP/bin/php/**php5.6.2**/modules/libphp5.so
 ``` 
 
-##Apache2
+- - - -
+
+## Apache2
 O Apache nativo do Mac se localiza */etc/apache2/*
+
+**Arquivos importantes**
+* **httpd.conf**
+* extra/
+	* **httpd-vhosts.conf**
+* users/
+	* **<user>.conf**
+	* **Guest.conf**
+	
+## Arquivo HOSTS
+O arquivo hosts se localiza no diretírio *etc/hosts*
+
+## Arquivo php.ini
+O arquivo php.ini se localiza no diretório *etc/php.ini*
+
+
+
