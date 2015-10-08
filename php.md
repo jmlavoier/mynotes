@@ -40,5 +40,4 @@ O arquivo hosts se localiza no diretírio *etc/hosts*
 ## Arquivo php.ini
 O arquivo php.ini se localiza no diretório *etc/php.ini*
 
-
-
+[Voltar](README.md)
