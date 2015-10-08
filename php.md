@@ -14,7 +14,7 @@ Editar o arquivo *conf/apache/httpd.conf* e altarar linha que habilita o servico
  $ nano /Applications/MAMP/conf/apache/httpd.conf
 ```
 
-Veja as versões que possui no diretório *bin/php*  
+Veja as versões que possui no diretório *bin/php/*  
 ```code
  LoadModule php5_module /Applications/MAMP/bin/php/**php5.6.2**/modules/libphp5.so
 ``` 
