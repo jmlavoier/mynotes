@@ -2,7 +2,7 @@
 
 1. **Comandos mais usados**
 
- Comandos     					| 
+ Comandos     					| Faz
 --------------------------------|-------------
 `$ git clone <repositorio>` 	| Clona um repositório para a pasta atual  
 `$ git status`					| Mostra o status do repositório, se existe arquivos atualizados e etc... 
@@ -13,7 +13,7 @@
 
 2. **Branch**
 
- Comandos     					| 
+ Comandos     					| Faz
 --------------------------------|-------------
 `$ git branch`  				| Visualizar as branchs locais
 `$ git branch` git fetch`   	| Atualiza as branchs
