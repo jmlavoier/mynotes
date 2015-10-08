@@ -3,10 +3,10 @@
 ## Principais pastas do MAMP
 O MAMP se localiza na pasta */Applications/MAMP/* 
 
-**conf/** Várias versões do *php.ini*;_
-**conf/apache/** *httpd.conf*, a pasta *extra* e seus vários *confs*;_
-**bin/php/** Várias versões do server PHP, onde deve ser configurado no *httpd.conf*;_
-**db/** Bases de dados gerenciados pelo MAMP *mongodb, mysql, sqlite*;_
+* **conf/** Várias versões do *php.ini*;
+* **conf/apache/** *httpd.conf*, a pasta *extra* e seus vários *confs*;
+* **bin/php/** Várias versões do server PHP, onde deve ser configurado no *httpd.conf*;
+* **db/** Bases de dados gerenciados pelo MAMP *mongodb, mysql, sqlite*;
 
 ## Alterando a versão do PHP 
 Editar o arquivo *conf/apache/httpd.conf* e altarar linha que habilita o servico PHP para versão desejada
