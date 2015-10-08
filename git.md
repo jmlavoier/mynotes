@@ -22,3 +22,4 @@
 `$ git merge <branch>`			| Faz um merge na branch aberta com a branch selecionada
 `$ git push -u origin <branch>`	| Envia um nova branch para o repositório
 
+[Voltar](README.md)
