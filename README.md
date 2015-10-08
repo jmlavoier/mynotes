@@ -1,4 +1,6 @@
 # mynotes
 
-1. [PHP](php.md)
+> Some notes to me don't forget
+
+1. [PHP for Mac OS X](php.md)
 
