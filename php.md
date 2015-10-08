@@ -31,7 +31,7 @@ O Apache nativo do Mac se localiza */etc/apache2/*
 * extra/
 	* **httpd-vhosts.conf**
 * users/
-	* **<user>.conf**
+	* ***user*****.conf**
 	* **Guest.conf**
 	
 ## Arquivo HOSTS
