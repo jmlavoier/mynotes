@@ -22,7 +22,7 @@ Observe que após baixar as dependências irá aparecer um novo diretório chama
 Abra o arquivo ```config/app.php``` para edição, é notavel que este arquivo é uma array com inumeras propriedares. Vá até o indice ```'url' => 'localhost'``` e altere o *'localhost'* por *'local.laravel'* ou qualquer outro nome que deseja para a url do projeto.
 
 ```php
-	'url' => 'http://local.laravel',
+	'url' => 'local.laravel',
 ```
 
 Para setar a base de dados vamos utilizar o MySQL. Vá até o arquivo ```config/database.php``` e configure a conexão desta maneira e crie a tabela **laravel** no MySQL.
