@@ -80,7 +80,7 @@ joao@JoaoMilton-MacPro laravel (master) $
 
 O arquivo ```public/.htaccess``` deve ser substituido pelo exemplo que se encontra na documentação do Laravel para o funcionamento da URL amigável.
 
-**.htaccess**
+**public/.htaccess**
 ```
 Options +FollowSymLinks
 RewriteEngine On
@@ -90,4 +90,6 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^ index.php [L]
 ```
 
-Agora vá até o browser e entre com a URL **http://local.laravel** para acessar o 
+Agora vá até o browser e entre com a URL **http://local.laravel** para acessar o projeto.
+
+[Voltar](README.md)
