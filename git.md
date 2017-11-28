@@ -16,7 +16,7 @@
  Comandos     					| Faz
 --------------------------------|-------------
 `$ git branch`  				| Visualizar as branchs locais
-`$ git branch` git fetch`   	| Atualiza as branchs
+`$ git branch git fetch`   	| Atualiza as branchs
 `$ git checkout -b <branch>`	| Cria um nova branch
 `$ git checkout <branch>`   	| Seleciona a branch 
 `$ git merge <branch>`			| Faz um merge na branch aberta com a branch selecionada
