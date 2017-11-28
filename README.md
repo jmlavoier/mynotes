@@ -1,6 +1,6 @@
 # My Notes
 
-It's some reference, articles and tips that I've learned to be a better professional along my jorney. 
+It's some references, articles and tips that I've learned to be a better professional along my jorney. 
 
 ## Software Engineering
 - [Principles of Software Engineering](https://www.d.umn.edu/~gshute/softeng/principles.html)
