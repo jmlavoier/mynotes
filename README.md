@@ -12,6 +12,7 @@ It's some references, articles and tips that I've learned to be a better profess
 ## Libraries
 ### React
 ### Redux
+[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ## Database
 ### MySQL
