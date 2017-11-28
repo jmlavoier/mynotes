@@ -1,10 +1,22 @@
-# mynotes
+# My Notes
 
-I don't want to forget what I have learned.
-But I usually forget to note my learning here.
-I am trying don't forget anymore. 
+It's some reference, articles and tips that I've learned to be a better professional along my jorney. 
 
-1. [PHP for Mac OS X](php.md)
-2. [GIT](git.md)
-3. [MySQL](mysql.md)
-4. [Laravel 5](laravel5.md)
+## Software Engineering
+- [Principles of Software Engineering](https://www.d.umn.edu/~gshute/softeng/principles.html)
+- [7 Principles of Software Engineering](http://nonsensecreativity.com/design/7-principles-of-software-engineering/)
+
+## Languages
+### JavaScript
+
+## Libraries
+### React
+### Redux
+
+## Database
+### MySQL
+### MongoDB
+
+## GIT
+- [simple commands](https://github.com/jmlavoier/mynotes/blob/master/git.md)
+
