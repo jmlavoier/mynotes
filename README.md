@@ -18,5 +18,5 @@ It's some reference, articles and tips that I've learned to be a better professi
 ### MongoDB
 
 ## GIT
-- [simple commands](https://github.com/jmlavoier/mynotes/blob/master/git.md)
+- [Simple commands](https://github.com/jmlavoier/mynotes/blob/master/git.md)
 
